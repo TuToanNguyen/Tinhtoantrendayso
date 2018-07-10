@@ -1,0 +1,37 @@
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Form1.resources
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\MINHSANGTP\Documents\Visual Studio 2015\Projects\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Form1.resources
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\Nicolai\Desktop\Tinhtoandayso\Tinhtoandayso\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Form1.resources
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\Nicolai\Desktop\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Form1.resources
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.cache
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+F:\TuToanNguyen\HKPhu_2017_2018\DBCLPM\Bài tập\NguyenTuToan_14004096\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
